@@ -1,28 +1,36 @@
+<p align="center">
+  <img src="./docs/github-cover.svg" alt="IcGoru cover" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-React_Native-20232A?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/Runtime-Expo-000020?style=for-the-badge&logo=expo" alt="Expo" />
+  <img src="https://img.shields.io/badge/Focus-Emotional_Awareness-7c3aed?style=for-the-badge" alt="Emotional Awareness" />
+</p>
+
 # IcGoru
 
-IcGoru is a mood tracking and self-reflection mobile app focused on emotional awareness and personal growth.
-It is built to help users better understand patterns in how they feel over time.
+`IcGoru` is a mobile self-reflection product designed to help users notice mood patterns, reflect more intentionally, and build a steadier emotional awareness habit.
 
-## What It Does
+## What It Delivers
 
-- Tracks mood and emotional state
-- Encourages reflection and self-observation
-- Uses mobile-first flows for daily use
-- Supports a calmer and more structured self-check habit
+- Mood tracking through a mobile-first flow
+- Personal reflection oriented interaction design
+- Lightweight habit support for recurring self check-ins
+- A calmer product direction than generic productivity apps
 
-## Tech Stack
+## Stack
 
 - React Native
 - Expo
 - JavaScript
 - React Navigation
 
-## Project Goal
+## Product Direction
 
-This project is built around the idea that simple digital tools can improve emotional awareness.
-The aim is to make self-reflection easier, more visual, and more consistent.
+The app is built around a simple idea: self-awareness becomes more useful when it is easy to revisit, visual enough to notice patterns, and gentle enough to keep using.
 
-## Getting Started
+## Run Locally
 
 ```bash
 npm install
